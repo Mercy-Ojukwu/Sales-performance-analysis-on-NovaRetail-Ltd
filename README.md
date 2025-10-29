@@ -51,6 +51,36 @@ Product Insights:
  Sales Rep Insights: 
 - Highest-performing sales rep: Abdul Salim with 134 total unit sold. 
 - Average units sold per sales rep: Abdul Salim- 3.35, 
-                                    Chuka Obazi – 3.44 ,         
-                                    Mary Felix – 2.97. 
+                                    Chuka Obazi– 3.44,         
+                                    Mary Felix–  2.97. 
 - Total discount given across all sales: ₦357,300. 
+
+Recommendations
+Actionable steps NovaRetail can take based on the findings:
+* Replicate the September playbook: Perform a retroactive campaign analysis for September
+(promotions, stock levels, channel mix) and replicate successful tactics.
+
+* Invest in Lagos & Abuja market penetration: Lagos drives ~31.5% of revenue — prioritize
+marketing and inventory for Lagos. Abuja shows strong accessories volume — push targeted
+accessories promotions there.
+
+* Focus on retention programs: Returning customers deliver ~59% of revenue — build loyalty
+programs, repeat-purchase incentives, and targeted offers to increase lifetime value.
+
+* Leverage top sales reps: Study Abdul Salim’s approach (accounts, leads, pricing, negotiation)
+and replicate best practices (mentorship, commission structure). Consider targeted incentives to
+lift mid-tier reps.
+
+* Optimize discount strategy: Average discount per transaction (₦3,248) and total discount
+(₦357,300) are reasonable — monitor margin impact during promo months; use targeted
+coupons rather than blanket discounts.
+
+* Prioritize high-margin inventory: Since electronics yield high revenue per unit, ensure
+consistent stock, warranty/upsell bundles, and premium service offerings.
+
+* Encourage repeat purchases among one-time buyers: Convert single-purchase customers
+(~70% of customers) with follow-up offers, cross-sell emails, and small loyalty rewards.
+
+* Investigate Port Harcourt impact: Since excluding Port Harcourt changes total revenue
+materially, review operations/returns/late deliveries in that city and optimize logistics or
+marketing spend accordingly.
