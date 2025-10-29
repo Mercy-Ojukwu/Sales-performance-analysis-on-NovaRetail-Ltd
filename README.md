@@ -1,4 +1,3 @@
-
 # Sales-performance-analysis-on-NovaRetail-Ltd
 Exploratory Data Analysis using python, pandas, matplotlib, seaborn, plotly 
 
@@ -85,3 +84,10 @@ consistent stock, warranty/upsell bundles, and premium service offerings.
 * Investigate Port Harcourt impact: Since excluding Port Harcourt changes total revenue
 materially, review operations/returns/late deliveries in that city and optimize logistics or
 marketing spend accordingly.
+
+##   Conclusion 
+ 
+The sales performance analysis provided valuable insights into NovaRetail Ltd.’s 
+operations across different cities and product categories. By understanding where 
+revenue comes from and which areas underperform, the company can make 
+more informed decisions on marketing, inventory, and customer engagement.
