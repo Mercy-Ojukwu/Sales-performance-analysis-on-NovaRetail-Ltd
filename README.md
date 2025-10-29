@@ -55,7 +55,7 @@ Product Insights:
                                     Mary Felix–  2.97. 
 - Total discount given across all sales: ₦357,300. 
 
-Recommendations
+## Recommendations
 Actionable steps NovaRetail can take based on the findings:
 * Replicate the September playbook: Perform a retroactive campaign analysis for September
 (promotions, stock levels, channel mix) and replicate successful tactics.
