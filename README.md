@@ -1,7 +1,7 @@
 # Sales-performance-analysis-on-NovaRetail-Ltd
 Exploratory Data Analysis using python, pandas, matplotlib, seaborn, plotly 
 
-## I N T R O D U C T I O N    
+## Introduction    
  
 This report presents the analysis of 
 NovaRetail Ltd.’s sales data to understand 
@@ -11,7 +11,7 @@ revenue, product categories, customer
 behavior, and sales trends to support 
 better business decisions. 
   
-## Business Goals
+## Buisness Goals
 
 * Identify overall sales trends and seasonal patterns to support better planning and forecasting.
 
